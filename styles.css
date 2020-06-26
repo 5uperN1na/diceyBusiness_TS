@@ -1,0 +1,13 @@
+.die {
+    
+    border: 1px solid red;
+    border-radius: 9px;
+    text-align: center;
+    line-height: 40px;
+    font-size: 20px;
+    color: red;
+    float: center;
+    width: 45px;
+    height: 45px;
+    margin: 5px;
+}
